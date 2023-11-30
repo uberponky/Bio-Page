@@ -1,0 +1,32 @@
+html {
+    background-color: slategray;
+    max-width: 600px;
+    font-family: 'Mulish', sans-serif;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+img {
+    border-radius: 100%;
+}
+
+section {
+    background-color: white;
+    padding: 40px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+ul {
+    list-style-type: none;
+}
